@@ -62,7 +62,7 @@
     },
     {
       "variables": {
-        "URL_SCHEME": "moodlemobile"
+        "URL_SCHEME": "http://virtual.umariana.edu.co"
       },
       "locator": "cordova-plugin-customurlscheme",
       "id": "cordova-plugin-customurlscheme"
@@ -76,7 +76,7 @@
     "cordova-plugin-zip",
     {
       "variables": {
-        "SENDER_ID": "694767596569"
+        "SENDER_ID": "551379047595"
       },
       "locator": "phonegap-plugin-push",
       "id": "phonegap-plugin-push"
